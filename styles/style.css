@@ -311,11 +311,14 @@
 .membership__steps {
   list-style-type: none;
   padding: 0;
-  margin: 100px 0 0;
+  margin: 100px 150px 0;
+  display: flex;
+
   /* Agrega estilos */
 }
 
 .step {
+  margin: 40px 40px 220px 40px;
   /* Agrega estilos */
 }
 
